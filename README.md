@@ -51,7 +51,7 @@ A business website built using Laravel, Vue templating, jQuery, and Bootstrap.
 ### [Arrow](https://arrow.thethemeai.com/)
 A web project included in my portfolio.
 
-### Farmasale · Saudagar · Hotel Blue Castle
+### Hotel Blue Castle · Farmasale · Saudagar 
 Additional projects I've worked on. More public case-study details can be added when links and shareable project descriptions are available.
 
 ### Equidesk
