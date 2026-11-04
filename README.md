@@ -45,9 +45,6 @@ A barbershop booking and management platform. Worked with **Vue.js, Laravel (PHP
 ### [Signmein](https://signme.thethemeai.com/)
 A Laravel and Vue.js single-page application featuring CRUD workflows and a MySQL database.
 
-### [Habib Computer](https://habibcomputer.com.bd/)
-A business website built using Laravel, Vue templating, jQuery, and Bootstrap.
-
 ### [Arrow](https://arrow.thethemeai.com/)
 A web project included in my portfolio.
 
