@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rahatx.ai.studio">Portfolio</a> ·
+  <a href="https://rahat-chowdhury.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/chowdhuryrahat/">LinkedIn</a> ·
   <a href="https://github.com/asadullahchowdhury">GitHub</a>
 </p>
