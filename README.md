@@ -26,6 +26,7 @@ I started on the frontend and grew into a Frontend Lead before moving to the ful
 - **Styling:** Tailwind CSS, Bootstrap, SCSS
 - **Databases:** MySQL, MongoDB
 - **Also use:** TypeScript, JavaScript, Git, Docker, Figma, GSAP, Linear
+- **AI workflow:** Claude (Claude Code), ChatGPT and Gemini for refactoring, tests, code review and research. I own the architecture and review every change.
 
 I'm open to connecting about full-stack roles, product work, and freelance collaborations.
 
