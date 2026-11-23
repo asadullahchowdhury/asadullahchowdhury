@@ -16,18 +16,18 @@
 
 ## About Me
 
-I'm a Frontend Lead with **5+ years of experience** in web development. My work spans modern frontend applications, full-stack web projects, dashboards, and business platforms.
+I'm a Full-Stack Developer at **Codevioso** with **5+ years of experience** in web development. I build SaaS products, dashboards and business platforms end to end, from the database and APIs to the interface people use every day.
 
-I enjoy turning requirements into clear, reliable user experiences, collaborating with teams, and keeping code readable and maintainable. While my current focus is frontend engineering and leading frontend work, my full-stack background helps me work across the application when needed.
+I started on the frontend and grew into a Frontend Lead before moving to the full stack, so I care about both sides: interfaces that feel clear and reliable, and code the next person can read and extend.
 
-- **Current focus:** Frontend engineering and building practical web products
+- **Current focus:** Full-stack SaaS and business platforms
 - **Frontend:** Angular, React, Vue.js, Next.js, Nuxt.js
 - **Backend:** PHP, Laravel, Node.js
 - **Styling:** Tailwind CSS, Bootstrap, SCSS
 - **Databases:** MySQL, MongoDB
 - **Also use:** TypeScript, JavaScript, Git, Docker, Figma, GSAP, Linear
 
-I'm open to connecting about frontend opportunities, interesting product work, and freelance collaborations.
+I'm open to connecting about full-stack roles, product work, and freelance collaborations.
 
 ## Tech Stack
 
