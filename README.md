@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Rahat Chowdhury 👋</h1>
-
-<p align="center">
-  <strong>Frontend Lead · Full Stack Developer</strong>
-</p>
+<a href="https://rahat-chowdhury.vercel.app">
+  <img src="./assets/banner.svg" width="100%" alt="Rahat Chowdhury — Full-Stack Developer from Jashore, Bangladesh. I build business platforms, from the interface to the system behind it." />
+</a>
 
 <p align="center">
   I build thoughtful, maintainable web experiences and business applications — from polished interfaces to the systems that power them.
@@ -27,14 +25,14 @@ I enjoy turning requirements into clear, reliable user experiences, collaboratin
 - **Backend:** PHP, Laravel, Node.js
 - **Styling:** Tailwind CSS, Bootstrap, SCSS
 - **Databases:** MySQL, MongoDB
-- **Also use:** TypeScript, JavaScript, Git, Figma, GSAP
+- **Also use:** TypeScript, JavaScript, Git, Docker, Figma, GSAP, Linear
 
 I'm open to connecting about frontend opportunities, interesting product work, and freelance collaborations.
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,nuxt,ts,js,html,css,sass,tailwind,bootstrap,php,laravel,nodejs,mysql,mongodb,git,figma" alt="Technologies: Angular, React, Vue, Next.js, Nuxt, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, Bootstrap, PHP, Laravel, Node.js, MySQL, MongoDB, Git and Figma" />
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,nuxt,ts,js,html,css,sass,tailwind,bootstrap,php,laravel,nodejs,mysql,mongodb,docker,git,figma" alt="Technologies: Angular, React, Vue, Next.js, Nuxt, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, Bootstrap, PHP, Laravel, Node.js, MySQL, MongoDB, Docker, Git and Figma" />
 </p>
 
 ## Selected Projects
